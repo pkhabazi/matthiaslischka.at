@@ -1,8 +1,7 @@
 ---
 title: Hello docker-for-windows world
 layout: post
-categories: [docker]
-tags: [docker]
+tags: [Docker]
 ---
 tldnr: setting up docker-for-windows for the first time. mssql server. This is mere a personal braindump.
 Easy. Probably will use docker in future to replace local mssql server and for some other things.

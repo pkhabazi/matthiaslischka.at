@@ -1,7 +1,7 @@
 ---
 title: Deploying to GitHub Releases via AppVeyor
 layout: post
-tags: [CI, testing, AppVeyor]
+tags: [CI, Testing, AppVeyor]
 ---
 
 Today I went through the pain of automating my [release](https://help.github.com/categories/releases/) deployment via [AppVeyor](https://www.appveyor.com/). Of course it turned out to be easy and I'm stupid since it was painful for me. However, now that everything is up and running I wanted to share my results.

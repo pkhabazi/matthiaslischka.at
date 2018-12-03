@@ -1,7 +1,7 @@
 ---
 title: Windows 10 Upgrade still for free (outdated)
 layout: post
-tags: [windows]
+tags: [Windows]
 ---
 
 [Windows 10 free upgrade](https://www.microsoft.com/en-us/accessibility/windows10upgrade) for customers who use assistive technologies. You don't really have to use assistive technologies though! 

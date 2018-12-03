@@ -1,7 +1,7 @@
 ---
 title: Do not comment. Refactor.
 layout: post
-tags: [code, refactor]
+tags: [Code, Refactoring]
 ---
 Whenever I'm tempted to write a comment or I see a colleague writing one I try to find a way to refactor the code to a point where its intend becomes so clear that any additional comment would be redundant.
 
