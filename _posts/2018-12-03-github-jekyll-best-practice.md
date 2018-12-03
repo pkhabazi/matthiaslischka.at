@@ -4,8 +4,9 @@ layout: post
 tags: [GitHub, Jekyll]
 ---
 My blog is based on [Jekyll](https://jekyllrb.com/), markdown files transformed to static html, hosted on [GitHub Pages](https://pages.github.com/). I just now changed the theme I use. Thereupon I optimized the way I arrange my repositories around that.
+
 ![Jekyll + GitHub]({{ "/assets/2018-12-03-github-jekyll-best-practice.png"}})
-Up until now I used to fork a [Jekyll](https://jekyllrb.com/) theme. With that I could add my personal content and still pull-request changes back to the original. When I wanted to change the theme now I realized that I can not change the fork. It will always be a fork from the first theme I used. GitHub itself states in its helpfiles that you have to contact the support team if you want to change a fork to a self-standig repo. I did not want to harass them with my little problem.
+Up until now I used to fork a [Jekyll](https://jekyllrb.com/) theme. With that I could add my personal content and still pull-request changes back to the origin. When I now wanted to change the theme I realized that I can not change the fork. It will always be a fork from the first theme I used. GitHub itself states in its helpfiles that you have to contact the support team if you want to change a fork to a self-standig repo. I did not want to harass them with my little problem.
 
 ## My solution
  - Create a new empty repo on GitHub that will be your blog

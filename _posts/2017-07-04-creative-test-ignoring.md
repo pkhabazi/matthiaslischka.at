@@ -1,7 +1,7 @@
 ---
 title: Creative Test Ignoring
 layout: post
-tags: [Testing, Funny]
+tags: [Testing, Funny, Code, Refactoring]
 ---
 A short list of different ways of ignoring unit tests that I came across so far. Just for fun - no serious content.
 
