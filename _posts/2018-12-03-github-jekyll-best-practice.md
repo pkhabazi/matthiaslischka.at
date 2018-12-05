@@ -5,7 +5,7 @@ tags: [GitHub, Jekyll]
 ---
 My blog is based on [Jekyll](https://jekyllrb.com/), markdown files transformed to static html, hosted on [GitHub Pages](https://pages.github.com/). I just now changed the theme I use. Thereupon I optimized the way I arrange my repositories around that and want to share my learnings.
 
-![Jekyll + GitHub]({{ "/assets/2018-12-03-github-jekyll-best-practice.png"}})
+![Jekyll + GitHub]({{ "/assets/posts/2018-12-03-github-jekyll-best-practice.png"}})
 Up until now I used to fork the [Jekyll](https://jekyllrb.com/) theme that I wanted to use. I added all my content to my fork and still could pull-request changes back to the source repo. However, when I now wanted to change the theme to another theme I realized that I can not change the fork. My blog repository will always be a fork of the first theme I had chosen. GitHub itself states in its helpfiles that you have to contact the support team if you want to change a fork to a self-standing repo. I did not want to harass them with my little problem. So I changed the setup of my blog from scratch.
 
 ## My solution

@@ -8,14 +8,14 @@ Easy. Probably will use docker in future to replace local mssql server and for s
 
 ## Setup
 Activate the `Containers` and `Hyper-V` Windows features.
-![Docker Windwos Features]({{ "/assets/2017-10-14-hello-docker-for-windows-world_windows_features.png"}})
+![Docker Windwos Features]({{ "/assets/posts/2017-10-14-hello-docker-for-windows-world_windows_features.png"}})
 I use [choclatey ](https://chocolatey.org) to install all my windows programs. Therefore, installation of docker is like:
 ```cmd
 cinst docker -y
 cinst docker-for-windows -y
 ```
 Switch from linux to windows containers when using windows containers ;) e.g. MSSQL.
-![Switch to windows containers]({{ "/assets/2017-10-14-hello-docker-for-windows-world_switch_to_windows_containers.png"}})
+![Switch to windows containers]({{ "/assets/posts/2017-10-14-hello-docker-for-windows-world_switch_to_windows_containers.png"}})
 ## Download
 [Decide which image](https://hub.docker.com) you need and download it. This will take time - depending on the size of the image. Fortunately, this has to be done only once.
 ```cmd
