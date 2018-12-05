@@ -12,7 +12,9 @@ Up until now I used to fork the [Jekyll](https://jekyllrb.com/) theme that I wan
 
 ### When the theme is '[jekyll-remote-theme](https://github.com/benbalter/jekyll-remote-theme)'-compatible
 
-When the theme you want do use does support `jekyll-remote-theme` you should use it.
+[jekyll-remote-theme](https://github.com/benbalter/jekyll-remote-theme) is a plugin for [Jekyll](https://jekyllrb.com/) that allows you to use a theme that is not located in your repository but in any public repository on GitHub. Effectively separating your content data from the theme data.
+
+So when the theme you want do use does support `jekyll-remote-theme` you should use it.
  - Create an empty repository that will be your content-repository. Add your posts there (_/_posts_/).
  - Fork the theme you want to use and add this fork as remote theme. Check out the [doku](https://github.com/benbalter/jekyll-remote-theme/blob/master/README.md) and this [working demo](https://github.com/matthiaslischka/jekyll-uno-remote-theme-demo).
   
