@@ -29,4 +29,4 @@ That is not the right place for a question like that. Your product owner is not 
 
 The most annoying comments are those that are just leftovers from something that is not needed anymore but one was too close to to delete it. When code becomes obsolete just delete it. Do never comment code out because you might need it again later. That's why we use a VCS.
 
-![useless comment]({{"/assets/posts/2017-06-27-Do-not-comment-refactor_wet_floor.jpg"}})
+![wet floor sign swimming in pool](/assets/posts/2017-06-27-Do-not-comment-refactor_wet_floor.jpg){:height="200px" }
