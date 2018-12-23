@@ -1,6 +1,7 @@
 ---
 title: Jekyll and docker-compose
 layout: post
+tags: [Jekyll, Docker]
 ---
 Everyday I use docker not only as a tool to ship software in isolated containers but also as a tool for local development. It allows me to play aground with stuff but keep my machine clean at the same time. A little over a year ago I started [using docker for my local Microsoft SQL Server](http://matthiaslischka.at/2017/10/14/hello-docker-for-windows-world/). Ever since then I find more and more use for it.
 The latest utilization of docker in that fashion and a good representation that I want to share is the maintenance of my Jekyll-homepage.
