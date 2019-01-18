@@ -4,6 +4,8 @@ title: Curriculum Vitae
 permalink: /cv/
 robots: noindex
 ---
+[📝 download résumé (pdf)](/assets/resume.pdf)
+
 ## Haves
  - .NET (C#, ASP.NET)
  - Angular, JavaScript
@@ -21,6 +23,10 @@ robots: noindex
  - Networking, community activities (GDCR, Coding Dojos, Meetups, ...)
 
 ## Professional experience
+
+### 10/2018 - present
+Senior Software Developer<br />
+Passionate Freelancer
 
 ### 10/2014 - 09/2018
 Senior Software Developer<br />
@@ -116,3 +122,5 @@ Studiengang Bachelor Informatik, BSc
 ## Languages
  - English (Fluent)
  - German (First language)
+
+[📝 download résumé (pdf)](/assets/resume.pdf)
