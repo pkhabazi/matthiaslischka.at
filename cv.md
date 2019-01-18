@@ -4,7 +4,7 @@ title: Curriculum Vitae
 permalink: /cv/
 robots: noindex
 ---
-[📝 download résumé (pdf)](/assets/resume.pdf)
+[📝 download résumé (pdf) \[ en](/assets/resume.pdf) \| [de \]](/assets/resume_de.pdf)
 
 ## Haves
  - .NET (C#, ASP.NET)
@@ -123,4 +123,4 @@ Studiengang Bachelor Informatik, BSc
  - English (Fluent)
  - German (First language)
 
-[📝 download résumé (pdf)](/assets/resume.pdf)
+[📝 download résumé (pdf) \[ en](/assets/resume.pdf) \| [de \]](/assets/resume_de.pdf)
