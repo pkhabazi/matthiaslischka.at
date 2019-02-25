@@ -27,9 +27,9 @@ docker pull microsoft/mssql-server-windows-developer
 ```
 ## Start
 ```cmd
-docker run -d -p 1433:1433 -e sa_password=<sa_password> -e ACCEPT_EULA=Y --name sql microsoft/mssql-server-windows-developer
+docker run -d -p 1433:1433 -e sa_password=<SA PASSWORD> -e ACCEPT_EULA=Y --name sql microsoft/mssql-server-windows-developer
 ```
-**!** The ```<sa_password>``` has to match the [mssql server password policy](https://docs.microsoft.com/en-us/sql/relational-databases/security/password-policy). Otherwise, the setup will fail and you have no idea why.
+**!** The ```<SA PASSWORD>``` has to match the [mssql server password policy](https://docs.microsoft.com/en-us/sql/relational-databases/security/password-policy). Otherwise, the setup will fail and you have no idea why.
 
 [edit 20.10.2017] **!** Those settings will be stored as environment variables on the container. On every startup of the container a script (`c:\start.ps1`) will be executed that resets the sa password to this initial password. The initial password, stored as environment variable, can be promted with `SET sa_password`.
 When no password is passed in the `docker run` command the environment varibale is initialized to "_", the sa user will be disabled and the sa password will not be resetted at startup.
@@ -45,7 +45,16 @@ Enable sa user and set password - via sqlcmd (`docker exec -it sql sqlcmd`):
 ```
 
 ## Use
-Get the container IP with this command:
+Connect to localhost.
+
+Since we mapped the container mssql server default port to the host system mssql server default port (`-p 1433:1433`) we can access the container via `localhost`.
+
+Example connections string: 
+```cmd
+"Data Source=.;Initial Catalog=MyAppDb;User Id=sa;Password=<SA PASSWORD>;MultipleActiveResultSets=true;"
+```
+
+If needed you can get the container IP with this command:
 {% raw %}
 ```cmd
 docker inspect --format '{{.NetworkSettings.Networks.nat.IPAddress}}' sql
