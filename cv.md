@@ -15,7 +15,7 @@ I'm a passionate software developer located in Vienna with 8+ years of professio
  - Networking, community activities (GDCR, Coding Dojos, Meetups, ...)
 
 ## Haves
- - 8+ years experience developing with .Net (ASP.NET, Core,  MVC, EF, ...)
+ - 9+ years non-stop software development with .Net (ASP.NET, MVC, EF, .Net Core, ...)
  - Angular, JavaScript
  - Agile Software Development, Scrum Master
  - TDD, BDD
