@@ -1,10 +1,10 @@
 ---
-title: Never use AutoMapper Dynamic Map
+title: The unexpected state of AutoMapper Dynamic Map
 layout: post
 tags: [Code, .Net]
 ---
 
-I recently noticed some odd behavior of the [AutoMapper Dynamic Map](http://docs.automapper.org/en/stable/Dynamic-and-ExpandoObject-Mapping.html) feature and came to the conclusion that this should actually never be used. Here is why.
+I recently noticed some odd behavior of the [AutoMapper Dynamic Map](http://docs.automapper.org/en/stable/Dynamic-and-ExpandoObject-Mapping.html) feature. Dynamic maps create some unexpected state and each map could influence all following maps in a quite severe way. See for yourself.
 
 ![AutoMapper]({{ "/assets/posts/2019-04-10-Never-Use-AutoMapper-Dynamic-Map_automapper_logo.png"}}){:style="background-color: black"}
 
@@ -30,7 +30,7 @@ var model = new Model { Message = "Hello World" };
 var a = AutoMapper.Mapper.Map(model, new A { Message = "Something" }); // a.Message == "Hello World"
 ```
 
-## Why to Never Dynmic Map
+## How base class mappings destroy mapping for derived classes
 
 When performing a dynamic map [AutoMapper](http://automapper.org/) stores the dynamically created mapping configuration in the background. This behavior adds some unexpected state to the mapping. Depending on what mappings have already been done before the same dynamic map might now behave differently!
 
@@ -59,12 +59,13 @@ var a = AutoMapper.Mapper.Map(model, new A()); // a.Message == NULL!
 
 This is really dangerous and unexpected and therefore [Dynamic Mapping](http://docs.automapper.org/en/stable/Dynamic-and-ExpandoObject-Mapping.html) should never be used!
 
-## How to use AutoMapper then?
+## How to deal with this?
 
-Feelings are always running high when it comes to [AutoMapper](http://automapper.org/) and my colleagues all know that I'm not a huge fan. However, it's not that I think it is a bad tool or [even hate it](https://jimmybogard.com/automappers-design-philosophy/), I just never saw a project where it was used the way it is [intended to be used](https://jimmybogard.com/automapper-usage-guidelines/). Personally I do like to use it in tests sometimes but try to avoid it in production code.
+Don't ever use dynamic map. That's my new opinion since I debugged into this issue.
 
-So, first of all, challenge [if AutoMapper is really needed](https://jimmybogard.com/automapper-usage-guidelines/). If the answer is yes make extra sure that you use it correctly - it's a powerful tool and misuse will be punished later on.
+Secondly, I would challenge [if AutoMapper is really needed](https://jimmybogard.com/automapper-usage-guidelines/) at all. I know feelings are always running high when it comes to [AutoMapper](http://automapper.org/) and my colleagues all know that I'm not a huge fan. However, it's not that I think it is a bad tool or [even hate it](https://jimmybogard.com/automappers-design-philosophy/), I just never saw a project where it was used the way it is [intended to be used](https://jimmybogard.com/automapper-usage-guidelines/).
 
+When you want to use it make extra sure that you use it correctly - it's a powerful tool and misuse will be punished later on.
 
 **Make sure to follow Jimmy Bogard's [AutoMapper Usage Guidelines](https://jimmybogard.com/automapper-usage-guidelines/).**
 
