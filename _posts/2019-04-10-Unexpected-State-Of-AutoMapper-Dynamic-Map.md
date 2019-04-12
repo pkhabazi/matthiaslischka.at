@@ -1,6 +1,7 @@
 ---
 title: The unexpected state of AutoMapper Dynamic Map
 layout: post
+comments: true
 tags: [Code, .Net]
 ---
 
