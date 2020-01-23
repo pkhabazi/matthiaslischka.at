@@ -8,16 +8,16 @@ I'm a passionate software developer located in Vienna with 8+ years of professio
 
 ## Wants
  - Challenging projects in Vienna (Austria) / (remote)
-   - .Net C# (Java/Kotlin at a stretch)
+   - C# .net core, angular
    - complex domains
    - agile teams
    - testing culture (TDD, BDD, ...)
- - Networking, community activities (GDCR, Coding Dojos, Meetups, ...)
+ - Networking, exchanging ideas, community activities (GDCR, Coding Dojos, Meetups, ...)
 
 ## Haves
- - 9+ years non-stop software development with .Net (ASP.NET, MVC, EF, ...)
+ - 10 years software development with .Net (ASP.NET, MVC, EF, ...)
  - Angular, JavaScript
- - Agile Software Development, Scrum Master
+ - Agile Software Development, Certified Scrum Master
  - TDD, BDD
  - Continuous Integration, Azure DevOps
  - MSSQL, Oracle
