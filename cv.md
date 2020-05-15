@@ -25,7 +25,7 @@ I'm a passionate software developer located in Vienna with 8+ years of professio
 ## Professional experience
 
 ### 10/2018 - present
-**Passionate Freelancer Senior Software Developer<br />**
+**Passionate Software Developer - [Freelancer](https://www.matthiaslischka.at)<br />**
 Supporting customers in their software development process. Core strengths are ASP.NET Core MVC, .NET Core, Angular, agile software development (ScrumMaster) and testdriven development (TDD, BDD).
 
 
@@ -53,11 +53,11 @@ Developing new features in big projects for the public sector, maintaining and e
  - Azure DevOps, Git
 
 #### Setup
- - 2 year project for a big customer from Germany
+ - 2 years project for a big customer from Germany
  - Integration in Liferay
  - Interfaces to SAP and other products via ESB
  - Hosted in Azure (App Service, SQL, Liferay VM, AppInsight, Storage, Key Vault, ...)
- - Scrum team: 5 developer, one tester, one PO/PM
+ - Scrum team: 5 developers, tester, PO, PM and UX
 
 ### 2016 - 2018
 **Technical Lead** of a seven-person team,<br />
