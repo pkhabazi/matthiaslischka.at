@@ -43,6 +43,22 @@ Developing new features in big projects for the public sector, maintaining and e
  - ISTQB Certified Tester - Foundation Level
  
 ## Previous Projects
+### 2019 - present
+**Technical Lead for Backend**
+
+#### Technologies
+ - ASP.NET Core Web API
+ - Liferay portlets with Angular
+ - Mulesoft ESB
+ - Azure DevOps, Git
+
+#### Setup
+ - 2 year project for a big customer from Germany
+ - Integration in Liferay
+ - Interfaces to SAP and other products via ESB
+ - Hosted in Azure (App Service, SQL, Liferay VM, AppInsight, Storage, Key Vault, ...)
+ - Scrum team: 5 developer, one tester, one PO/PM
+
 ### 2016 - 2018
 **Technical Lead** of a seven-person team,<br />
 intermediate **Scrum Master** in the beginning
