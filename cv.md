@@ -25,7 +25,7 @@ I'm a passionate software developer located in Vienna with 8+ years of professio
 ## Professional experience
 
 ### 10/2018 - present
-**Passionate Software Developer - [Freelancer](https://www.matthiaslischka.at)<br />**
+**Passionate Software Developer - [Freelancer](https://matthiaslischka.at/)<br />**
 Supporting customers in their software development process. Core strengths are ASP.NET Core MVC, .NET Core, Angular, agile software development (ScrumMaster) and testdriven development (TDD, BDD).
 
 
