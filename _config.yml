@@ -12,7 +12,7 @@ remote_theme: matthiaslischka/jekyll-uno
 author:
   name: 'Matthias Lischka'
   email: mail@matthiaslischka.at
-  twitter_username: matthiaslischka
+  #twitter_username: matthiaslischka
   #facebook_username: joshgerdes
   github_username:  matthiaslischka
   linkedin_username:  matthiaslischka
