@@ -61,6 +61,7 @@ Face to face > phone call > instant message > mail.
 
 **Working software is progress**
 - Functional valuable features delivered and customer satisfaction is true progress.
+- Other things can be measured and evaluated but at the end of the day that's what counts.
 
  > #8 Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.
 
@@ -74,9 +75,9 @@ Face to face > phone call > instant message > mail.
  > #9 Continuous attention to technical excellence and good design enhances agility.
 
 **Technical excellence and good design**
-- Time invested in good design is almost priceless
-- Encourage knowledge exchange and discussions
-- Throw away early, refactor later.
+- Time invested in good design is almost priceless.
+- Encourage knowledge exchange and discussions.
+- [Throw away early](https://vimeo.com/108441214), refactor later.
 - Don't shy away from taking external help in the early stage if needed.
 
  > #10 Simplicity — the art of maximizing the amount of work not done — is essential.
@@ -107,8 +108,10 @@ This seems to be the hardest and totally uncommon: Let the team decide how it wi
 **Reflect on how to become more effective**
 - Not just in the retrospective meeting. Start listening to the problems mentioned in the daily standup.
 - Put some effort into retrospectives.
-- Always derive actions.
+- Always derive [smart](https://en.wikipedia.org/wiki/SMART_criteria) actions.
 - Pain that "can't be changed" can be changed almost always.
+- Automate to save time and reduce errors.
+- When something is painful do it more often. Releasing a new version is painful? Do it every week friday afternoon. Automate and streamline until it runs so smoothly you hardly even notice it anymore.
 
 ---
 In software development "_Agile_" is like the ugliest word of the year - every year. A buzzword so misused that many devs are sick of hearing it. But besides all that consultant gibberish I think from time to time we all should remember what _agile_ originally stood for - true values.
