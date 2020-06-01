@@ -4,7 +4,7 @@ title: Curriculum Vitae
 permalink: /cv/
 robots: noindex
 ---
-I'm a passionate software developer located in Vienna with 8+ years of professional experience. My goto technology stack is an ASP.Net Core MVC Backend with an Angular frontend. I'm a huge believer in agile software development (XP, Scrum) and test driven development (TDD, BDD).
+I'm a passionate software developer located in Vienna with 10+ years of professional experience. My goto technology stack these days is an ASP.Net Core MVC backend combined with an Angular frontend. I'm a huge believer in agile software development (XP, Scrum) and test driven development (TDD, BDD).
 
 ## Wants
  - Challenging projects in Vienna (Austria) / (remote)
