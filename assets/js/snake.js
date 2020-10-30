@@ -59,7 +59,7 @@ function draw() {
 
   if (!gameStarted) return;
 
-  canvas.style("z-index: 1");
+  canvas.style("z-index: 1000");
   clear();
   drawSnake();
   drawApple();
