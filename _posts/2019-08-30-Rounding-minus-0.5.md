@@ -11,14 +11,14 @@ Well, we had some fun today at work with this question and even more fun when we
 
 | Input      | 0.6 | 0.5 | 0.4 | -0.4 | -0.5 | -0.6 |                    |
 | ---------- | --- | --- | --- | ---- | ---- | ---- | ------------------ |
-| C#         | 1   | 0   | 0   | 0    | 0    | -1   | `Math.Round(-0.4)` |
-| Java       | 1   | 1   | 0   | 0    | 0    | -1   | `Math.round(-0.4)` |
-| Python     | 1   | 0   | 0   | 0    | 0    | -1   | `round(-0.4)`      |
-| C          | 1   | 1   | 0   | -0   | -1   | -1   | `round(-0.4)`      |
-| Go         | 1   | 1   | 0   | -0   | -1   | -1   | `math.Round(-0.4)` |
-| PHP        | 1   | 1   | 0   | -0   | -1   | -1   | `round(-0.4)`      |
-| JavaScript | 1   | 1   | 0   | -0   | -0   | -1   | `Math.round(-0.4)` |
-| Excel      | 1   | 1   | 0   | 0    | -1   | -1   | `ROUND(-0.4;0)`    |
+| C#         | 1   | 0   | 0   | 0    | 0    | -1   | `Math.Round(-0.5)` |
+| Java       | 1   | 1   | 0   | 0    | 0    | -1   | `Math.round(-0.5)` |
+| Python     | 1   | 0   | 0   | 0    | 0    | -1   | `round(-0.5)`      |
+| C          | 1   | 1   | 0   | -0   | -1   | -1   | `round(-0.5)`      |
+| Go         | 1   | 1   | 0   | -0   | -1   | -1   | `math.Round(-0.5)` |
+| PHP        | 1   | 1   | 0   | -0   | -1   | -1   | `round(-0.5)`      |
+| JavaScript | 1   | 1   | 0   | -0   | -0   | -1   | `Math.round(-0.5)` |
+| Excel      | 1   | 1   | 0   | 0    | -1   | -1   | `ROUND(-0.5;0)`    |
 
 I like `-0`. Did honestly not know [that](https://en.wikipedia.org/wiki/Signed_zero).
 
