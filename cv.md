@@ -6,20 +6,22 @@ robots: noindex
 ---
 I'm a passionate software developer located in Vienna with 10+ years of professional experience. My goto technology stack these days is an ASP.Net Core MVC backend combined with an Angular frontend. I'm a huge believer in agile software development (XP, Scrum) and test driven development (TDD, BDD).
 
-## Wants
- - Challenging projects in Vienna (Austria) / (nowadays remote is preferred)
-   - C# .net core, angular
+## What I want
+ - Challenging and modern projects in Vienna (Austria) / (nowadays remote is preferred)
+   - .net core, angular/react, ...
    - complex domains
    - agile teams
    - testing culture (TDD, BDD, ...)
+   - colleagues to challange ideas/concepts with
  - Networking, exchanging ideas, community activities (GDCR, Coding Dojos, Meetups, ...)
 
-## Haves
- - 10+ years software development with .Net (ASP.NET, MVC, EF, ...)
- - Angular, JavaScript
- - Agile Software Development, Certified Scrum Master
- - TDD, BDD
- - Continuous Integration, Continuous Delivery, Azure DevOps, ...
+## What I bring to the table
+ - 10+ years of software development
+ - .Net Core, Angular/React, Microservice/Microfrontend, REST, GraphQL, Rabbit MQ, Kubernetes, CQRS, DDD, .... modern software development.
+ - Code quality awareness
+ - Test Driven Development (TDD, BDD)
+ - Agile Mindset (Agile Software Development, Certified Scrum Master)
+ - DevOps, Continuous Integration, Continuous Delivery, Azure Cloud
 
 ## Professional experience
 
@@ -49,7 +51,7 @@ Developing new features in big projects for the public sector, maintaining and e
 **Senior Software Developer for Backend**
 
 #### Technologies
- - ASP.NET Core, GraphQL, RabbitMQ, React, Kubernetes
+ - ASP.NET Core, GraphQL, RabbitMQ, React, Kubernetes, CQRS, Domain Driven Design
  - Microservice, Microfrontend
 
 #### Setup
@@ -83,7 +85,7 @@ intermediate **Scrum Master** in the beginning
 #### Technologies
  - ASP.NET Core MVC
  - Angular
- - Micro-Service/Frontend Architecture
+ - Micro-Service/Frontend Architecture, CRQS, DDD
  - MSSQL / Oracle
  - Azure DevOps, Git
 
