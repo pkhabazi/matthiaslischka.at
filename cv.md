@@ -7,7 +7,7 @@ robots: noindex
 I'm a passionate software developer located in Vienna with 10+ years of professional experience. My goto technology stack these days is an ASP.Net Core MVC backend combined with an Angular frontend. I'm a huge believer in agile software development (XP, Scrum) and test driven development (TDD, BDD).
 
 ## What I want
- - Challenging and modern projects in Vienna (Austria) / (nowadays remote is preferred)
+ - Challenging and modern projects in Vienna (Austria)<br />(nowadays remote is preferred)
    - .net core, angular/react, ...
    - complex domains
    - agile teams
@@ -17,18 +17,18 @@ I'm a passionate software developer located in Vienna with 10+ years of professi
 
 ## What I bring to the table
  - 10+ years of software development
- - .Net Core, Angular/React, Microservice/Microfrontend, REST, GraphQL, Rabbit MQ, Kubernetes, CQRS, DDD, .... modern software development.
+ - .Net Core, Angular/React, Microservice/Microfrontend, REST, GraphQL, Rabbit MQ, Kubernetes, CQRS, DDD, .... _modern software development_!
  - Code quality awareness
  - Test Driven Development (TDD, BDD)
  - Agile Mindset (Agile Software Development, Certified Scrum Master)
- - DevOps, Continuous Integration, Continuous Delivery, Azure Cloud
+ - Continuous Integration, Continuous Delivery, DevOps, Azure Cloud
 
 ## Professional experience
 
 ### 10/2018 - present
 **Passionate Software Developer - [Freelancer](https://matthiaslischka.at/)<br />**
 Helping customers to deliver software products with impact.
- - Senior Software Developer (.Net Core, Angular)
+ - Senior Software Developer (.Net Core, Angular/React)
  - Software Architecture (Microservice/Microfrontend, but always KISS)
  - Agile Mindset (Certified Scrum Master)
  - Testing Culture (TDD, BDD)
