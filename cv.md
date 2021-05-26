@@ -158,3 +158,4 @@ Studiengang Bachelor Informatik, BSc
 ## Languages
  - English (Fluent)
  - German (First language)
+ - Latin (Lorem ipsum)
