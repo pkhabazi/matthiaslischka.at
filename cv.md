@@ -7,7 +7,7 @@ robots: noindex
 I'm a passionate software developer located in Vienna with 10+ years of professional experience. My goto technology stack these days is an ASP.Net Core MVC backend combined with an Angular frontend. I'm a huge believer in agile software development (XP, Scrum) and test driven development (TDD, BDD).
 
 ## Wants
- - Challenging projects in Vienna (Austria) / (remote)
+ - Challenging projects in Vienna (Austria) / (nowadays remote is preferred)
    - C# .net core, angular
    - complex domains
    - agile teams
@@ -15,19 +15,21 @@ I'm a passionate software developer located in Vienna with 10+ years of professi
  - Networking, exchanging ideas, community activities (GDCR, Coding Dojos, Meetups, ...)
 
 ## Haves
- - 10 years software development with .Net (ASP.NET, MVC, EF, ...)
+ - 10+ years software development with .Net (ASP.NET, MVC, EF, ...)
  - Angular, JavaScript
  - Agile Software Development, Certified Scrum Master
  - TDD, BDD
- - Continuous Integration, Azure DevOps
- - MSSQL, Oracle
+ - Continuous Integration, Continuous Delivery, Azure DevOps, ...
 
 ## Professional experience
 
 ### 10/2018 - present
 **Passionate Software Developer - [Freelancer](https://matthiaslischka.at/)<br />**
-Supporting customers in their software development process. Core strengths are ASP.NET Core MVC, .NET Core, Angular, agile software development (ScrumMaster) and testdriven development (TDD, BDD).
-
+Helping customers to deliver software products with impact.
+ - Senior Software Developer (.Net Core, Angular)
+ - Software Architecture (Microservice/Microfrontend, but always KISS)
+ - Agile Mindset (Certified Scrum Master)
+ - Testing Culture (TDD, BDD)
 
 ### 10/2014 - 09/2018
 **Senior Software Developer - [TechTalk](https://www.techtalk.at)<br />**
@@ -43,7 +45,22 @@ Developing new features in big projects for the public sector, maintaining and e
  - ISTQB Certified Tester - Foundation Level
  
 ## Previous Projects
-### 2019 - present
+### 2021 - present
+**Senior Software Developer for Backend**
+
+#### Technologies
+ - ASP.NET Core, GraphQL, RabbitMQ, React, Kubernetes
+ - Microservice, Microfrontend
+
+#### Setup
+ - large-scale project in the public sector
+ - 15 teams, 100++ people
+ - Scalable Kubernetes Cluster
+ - Agile development with SAFe and Scrum
+ - Scrum team: 7 developers, tester, PO, PM, SM and UX
+
+
+### 2019 - 2021
 **Technical Lead for Backend**
 
 #### Technologies
