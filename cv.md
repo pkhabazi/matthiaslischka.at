@@ -22,6 +22,7 @@ I'm a passionate software developer located in Vienna with 10+ years of professi
  - Test Driven Development (TDD, BDD)
  - Agile Mindset (Agile Software Development, Certified Scrum Master)
  - Continuous Integration, Continuous Delivery, DevOps, Azure Cloud
+ - Senior Google, Stackoverflow and Github Searcher
 
 ## Professional experience
 
