@@ -9,7 +9,7 @@ I'm a passionate software developer located in Vienna with 10+ years of professi
  The greatest thing about being a professional software developer is that it comes with lifelong learning.
 
 ## What I want
- - Challenging and modern projects in Vienna (Austria)<br />(nowadays remote is preferred)
+ - Challenging and modern projects in Vienna.<br />(nowadays remote is preferred)
    - .net core, angular/react, ...
    - complex domains
    - agile teams
