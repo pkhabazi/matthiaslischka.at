@@ -24,44 +24,20 @@ I'm a passionate software developer located in Vienna with 10+ years of professi
  - Continuous Integration, Continuous Delivery, DevOps, Azure Cloud
  - Senior Google, Stackoverflow and Github Searcher
 
-## Professional experience
-
-### 10/2018 - present
-**Passionate Software Developer - [Freelancer](https://matthiaslischka.at/)<br />**
-Helping customers to deliver software products with impact.
- - Senior Software Developer (.Net Core, Angular/React)
- - Software Architecture (Microservice/Microfrontend, but always KISS)
- - Agile Mindset (Certified Scrum Master)
- - Testing Culture (TDD, BDD)
-
-### 10/2014 - 09/2018
-**Senior Software Developer - [TechTalk](https://www.techtalk.at)<br />**
-Supporting many customer projects on-site as part of their software development team. Technical Lead, Scrum Master, code quality and software development.
-
-### 03/2010 - 09/2014
-**Software Developer - [TechTalk](https://www.techtalk.at)<br />**
-Developing new features in big projects for the public sector, maintaining and extending legacy applications, Scrum Master and customer contact.
-
-## Qualifications
- - Master of Science in Engineering (MSc)
- - Certified ScrumMaster (CSM)
- - ISTQB Certified Tester - Foundation Level
- 
-## Previous Projects
+## Projects
 ### 2021 - present
 **Senior Software Developer for Backend**
 
 #### Technologies
- - ASP.NET Core, GraphQL, RabbitMQ, React, Kubernetes, CQRS, Domain Driven Design
+ - ASP.NET Core, GraphQL, RabbitMQ, React, Kubernetes, CQRS, Domain Driven Design, Azure Logic Apps
  - Microservice, Microfrontend
 
 #### Setup
  - large-scale project in the public sector
- - 15 teams, 100++ people
+ - **15 teams, 100++ people**
  - Scalable Kubernetes Cluster
  - Agile development with SAFe and Scrum
  - Scrum team: 7 developers, tester, PO, PM, SM and UX
-
 
 ### 2019 - 2021
 **Technical Lead for Backend**
@@ -74,8 +50,8 @@ Developing new features in big projects for the public sector, maintaining and e
 
 #### Setup
  - 2 years project for a big customer from Germany
- - Integration in Liferay
- - Interfaces to SAP and other products via ESB
+ - Angular Portlet integrated in Liferay
+ - ESB communication between services (SAP, internal products, ...)
  - Hosted in Azure (App Service, SQL, Liferay VM, AppInsight, Storage, Key Vault, ...)
  - Scrum team: 5 developers, tester, PO, PM and UX
 
@@ -146,6 +122,29 @@ intermediate **Scrum Master** in the beginning
  - Scrum
  - 8 persons
 
+## Professional experience
+
+### 10/2018 - present
+**Passionate Software Developer - [Freelancer](https://matthiaslischka.at/)<br />**
+Helping customers to deliver software products with impact.
+ - Senior Software Developer (.Net Core, Angular/React)
+ - Software Architecture (Microservice/Microfrontend, but always KISS)
+ - Agile Mindset (Certified Scrum Master)
+ - Testing Culture (TDD, BDD)
+
+### 10/2014 - 09/2018
+**Senior Software Developer - [TechTalk](https://www.techtalk.at)<br />**
+Supporting many customer projects on-site as part of their software development team. Technical Lead, Scrum Master, code quality and software development.
+
+### 03/2010 - 09/2014
+**Software Developer - [TechTalk](https://www.techtalk.at)<br />**
+Developing new features in big projects for the public sector, maintaining and extending legacy applications, Scrum Master and customer contact.
+
+## Qualifications
+ - Master of Science in Engineering (MSc)
+ - Certified ScrumMaster (CSM)
+ - ISTQB Certified Tester - Foundation Level
+ 
 ## Educational background
 
 ### 2010 - 2011
