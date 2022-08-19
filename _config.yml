@@ -5,7 +5,7 @@ url: 'https://matthiaslischka.at'
 baseurl: ''
 
 google_analytics:
-disqus_shortname: 'matthiaslischka'
+disqus_shortname: 
 
 remote_theme: matthiaslischka/jekyll-uno
 
