@@ -4,7 +4,7 @@ description: 'S&nbsp;O&nbsp;F&nbsp;T&nbsp;W&nbsp;A&nbsp;R&nbsp;E&nbsp;&nbsp; D&n
 url: 'https://matthiaslischka.at'
 baseurl: ''
 
-google_analytics: 'UA-37678138-1'
+google_analytics:
 disqus_shortname: 'matthiaslischka'
 
 remote_theme: matthiaslischka/jekyll-uno
